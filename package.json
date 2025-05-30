@@ -30,7 +30,11 @@
     "sweetalert": "^2.1.2",
     "toastr": "^2.1.4",
     "web-vitals": "^2.1.2"
-  },
+  },  
+  "engines": {
+  "node": "14.x"
+},
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
